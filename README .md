@@ -16,6 +16,8 @@
 
 **1.Home page**
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/107022099/197317137-0cc1f2e4-71e5-448a-9a38-dff6eda674cb.png">
+
+
  **2.Details Page**
  <img width="928" alt="image" src="https://user-images.githubusercontent.com/107022099/197317169-25eb628f-bd3e-4e7d-a522-656484ca2e71.png">
 
